@@ -1,2 +1,2 @@
-# wreckingball
-this game is just for enjoyment .
+# Wrecking_ball
+Wrecking ball simulation
